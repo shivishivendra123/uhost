@@ -29,6 +29,7 @@ body{
 }
 .main-nav_item{
     display: inline-block;
+    margin: 0px 16px;
 }
 .main-nav{
     display: inline-block;
@@ -52,4 +53,8 @@ body{
     margin: 0px;
     padding: 0;
     list-style: none;
+}
+.main-nav_item a{
+    text-decoration: none;
+    color: #0e4f1f;
 }
