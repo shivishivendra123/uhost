@@ -60,4 +60,11 @@ body{
 }
 .main-nav_item a:hover{
     color: white;
+    font-weight:bold;
+}
+.main-nav_item--cta{
+    color: white;
+    background: #ff1b68;
+    padding: 8px 16px;
+    border-radius: 8px;
 }
