@@ -1,0 +1,48 @@
+#product-overview
+{
+    background:#ff1b68;
+    padding: 20px;
+    /* border-style: dashed;
+    border-color: black;
+    border-width: 5px;
+    margin: 20px; */
+    width:100%;
+}
+
+.section-title{
+    color: green;
+}
+h1
+{
+    color:white ;
+    font-family: 'ZCOOL KuaiLe', cursive;
+
+}
+body{
+    font-family: sans-serif;
+    margin: 0px;
+}
+.main-header{
+    background: green;
+    width: 100%;
+    padding: 8px 16px;
+}
+.main-nav_item{
+    display: inline-block;
+}
+.main-nav{
+    display: inline-block;
+}
+.main-header>div{
+    display: inline-block;
+}
+.main-nav{
+    display: inline-block;
+    text-align: right;
+    width: calc(100% - 42px);
+}
+.main-nav_items{
+    margin: 0px;
+    padding: 0;
+    list-style: none;
+}
